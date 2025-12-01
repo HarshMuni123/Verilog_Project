@@ -1,0 +1,43 @@
+# KERNEL: [0] GEN : a = 1111 b = 1011 cin = 1
+# KERNEL: [0] DRV : a = 1111 b = 1011 cin = 1
+# KERNEL: [0] MON : a=1111 b=1011 cin=1 sum=1011 cout=1
+# KERNEL: [0] SCO: PASS  a=1111 b=1011 cin=1 sum=1011 cout=1
+# KERNEL: [10000] GEN : a = 1111 b = 1110 cin = 1
+# KERNEL: [10000] DRV : a = 1111 b = 1110 cin = 1
+# KERNEL: [10000] MON : a=1111 b=1110 cin=1 sum=1110 cout=1
+# KERNEL: [10000] SCO: PASS  a=1111 b=1110 cin=1 sum=1110 cout=1
+# KERNEL: [20000] GEN : a = 1011 b = 1111 cin = 1
+# KERNEL: [20000] DRV : a = 1011 b = 1111 cin = 1
+# KERNEL: [20000] MON : a=1011 b=1111 cin=1 sum=1011 cout=1
+# KERNEL: [20000] SCO: PASS  a=1011 b=1111 cin=1 sum=1011 cout=1
+# KERNEL: [30000] GEN : a = 0101 b = 0011 cin = 1
+# KERNEL: [30000] DRV : a = 0101 b = 0011 cin = 1
+# KERNEL: [30000] MON : a=0101 b=0011 cin=1 sum=1001 cout=0
+# KERNEL: [30000] SCO: PASS  a=101 b=11 cin=1 sum=1001 cout=0
+# KERNEL: [40000] GEN : a = 1001 b = 0000 cin = 1
+# KERNEL: [40000] DRV : a = 1001 b = 0000 cin = 1
+# KERNEL: [40000] MON : a=1001 b=0000 cin=1 sum=1010 cout=0
+# KERNEL: [40000] SCO: PASS  a=1001 b=0 cin=1 sum=1010 cout=0
+# KERNEL: [50000] GEN : a = 1010 b = 0101 cin = 1
+# KERNEL: [50000] DRV : a = 1010 b = 0101 cin = 1
+# KERNEL: [50000] MON : a=1010 b=0101 cin=1 sum=0000 cout=1
+# KERNEL: [50000] SCO: PASS  a=1010 b=101 cin=1 sum=0 cout=1
+# KERNEL: [60000] GEN : a = 1110 b = 0000 cin = 1
+# KERNEL: [60000] DRV : a = 1110 b = 0000 cin = 1
+# KERNEL: [60000] MON : a=1110 b=0000 cin=1 sum=1111 cout=0
+# KERNEL: [60000] SCO: PASS  a=1110 b=0 cin=1 sum=1111 cout=0
+# KERNEL: [70000] GEN : a = 0001 b = 1100 cin = 0
+# KERNEL: [70000] DRV : a = 0001 b = 1100 cin = 0
+# KERNEL: [70000] MON : a=0001 b=1100 cin=0 sum=1101 cout=0
+# KERNEL: [70000] SCO: PASS  a=1 b=1100 cin=0 sum=1101 cout=0
+# KERNEL: [80000] GEN : a = 0111 b = 1011 cin = 0
+# KERNEL: [80000] DRV : a = 0111 b = 1011 cin = 0
+# KERNEL: [80000] MON : a=0111 b=1011 cin=0 sum=0010 cout=1
+# KERNEL: [80000] SCO: PASS  a=111 b=1011 cin=0 sum=10 cout=1
+# KERNEL: [90000] GEN : a = 0101 b = 0101 cin = 1
+# KERNEL: [90000] DRV : a = 0101 b = 0101 cin = 1
+# KERNEL: [90000] MON : a=0101 b=0101 cin=1 sum=1011 cout=0
+# KERNEL: [90000] SCO: PASS  a=101 b=101 cin=1 sum=1011 cout=0
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (181): $finish called.
+# KERNEL: Time: 200 ns,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#178_0@.
+# KERNEL: stopped at time: 200 ns

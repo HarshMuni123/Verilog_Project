@@ -1,0 +1,26 @@
+# KERNEL: [0] GEN : a = 1111 b = 1011 c = 1
+# KERNEL: [0] DRV : a = 1111 b = 1011 cin = 1
+# KERNEL: [10000] GEN : a = 10 b = 110 c = 1
+# KERNEL: [10000] DRV : a = 10 b = 110 cin = 1
+# KERNEL: [20000] GEN : a = 100 b = 1011 c = 1
+# KERNEL: [20000] DRV : a = 100 b = 1011 cin = 1
+# KERNEL: [30000] GEN : a = 1111 b = 1111 c = 1
+# KERNEL: [30000] DRV : a = 1111 b = 1111 cin = 1
+# KERNEL: [40000] GEN : a = 10 b = 111 c = 0
+# KERNEL: [40000] DRV : a = 10 b = 111 cin = 0
+# KERNEL: [50000] GEN : a = 1110 b = 1000 c = 1
+# KERNEL: [50000] DRV : a = 1110 b = 1000 cin = 1
+# KERNEL: [60000] GEN : a = 100 b = 1100 c = 1
+# KERNEL: [60000] DRV : a = 100 b = 1100 cin = 1
+# KERNEL: [70000] GEN : a = 11 b = 1011 c = 1
+# KERNEL: [70000] DRV : a = 11 b = 1011 cin = 1
+# KERNEL: [80000] GEN : a = 101 b = 1010 c = 1
+# KERNEL: [80000] DRV : a = 101 b = 1010 cin = 1
+# KERNEL: [90000] GEN : a = 101 b = 100 c = 1
+# KERNEL: [90000] DRV : a = 101 b = 100 cin = 1
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (113): $finish called.
+# KERNEL: Time: 200 ns,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#110_0@.
+# KERNEL: stopped at time: 200 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
