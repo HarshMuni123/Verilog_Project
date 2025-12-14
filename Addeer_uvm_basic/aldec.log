@@ -1,0 +1,47 @@
+: ----------------------------------------------------------------
+# KERNEL: 
+# KERNEL:   ***********       IMPORTANT RELEASE NOTES         ************
+# KERNEL: 
+# KERNEL:   You are using a version of the UVM library that has been compiled
+# KERNEL:   with `UVM_NO_DEPRECATED undefined.
+# KERNEL:   See http://www.eda.org/svdb/view.php?id=3313 for more details.
+# KERNEL: 
+# KERNEL:   You are using a version of the UVM library that has been compiled
+# KERNEL:   with `UVM_OBJECT_DO_NOT_NEED_CONSTRUCTOR undefined.
+# KERNEL:   See http://www.eda.org/svdb/view.php?id=3770 for more details.
+# KERNEL: 
+# KERNEL:       (Specify +UVM_NO_RELNOTES to turn off this notice)
+# KERNEL: 
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: UVM_INFO @ 0: reporter [RNTST] Running test test...
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 1: uvm_test_top.env.agent.drv [DRV] a=3 b=14 s=17
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 11: uvm_test_top.env.agent.drv [DRV] a=6 b=9 s=15
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 21: uvm_test_top.env.agent.drv [DRV] a=9 b=11 s=20
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 31: uvm_test_top.env.agent.drv [DRV] a=14 b=5 s=19
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 41: uvm_test_top.env.agent.drv [DRV] a=10 b=3 s=13
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 51: uvm_test_top.env.agent.drv [DRV] a=12 b=7 s=19
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 61: uvm_test_top.env.agent.drv [DRV] a=14 b=3 s=17
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 71: uvm_test_top.env.agent.drv [DRV] a=7 b=11 s=18
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 81: uvm_test_top.env.agent.drv [DRV] a=8 b=14 s=22
+# KERNEL: UVM_INFO /home/runner/testbench.sv(26) @ 91: uvm_test_top.env.agent.drv [DRV] a=3 b=13 s=16
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_objection.svh(1271) @ 100: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_report_server.svh(869) @ 100: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
+# KERNEL: 
+# KERNEL: ** Report counts by severity
+# KERNEL: UVM_INFO :   13
+# KERNEL: UVM_WARNING :    0
+# KERNEL: UVM_ERROR :    0
+# KERNEL: UVM_FATAL :    0
+# KERNEL: ** Report counts by id
+# KERNEL: [DRV]    10
+# KERNEL: [RNTST]     1
+# KERNEL: [TEST_DONE]     1
+# KERNEL: [UVM/RELNOTES]     1
+# KERNEL: 
+# RUNTIME: Info: RUNTIME_0068 uvm_root.svh (521): $finish called.
+# KERNEL: Time: 100 ns,  Iteration: 56,  Instance: /tb,  Process: @INITIAL#89_0@.
+# KERNEL: stopped at time: 100 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
